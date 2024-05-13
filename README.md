@@ -12,6 +12,9 @@ Throughout this project I delved into the realm of data using Pythons libraries 
 Through the Spotify Data Analysis Project I not sharpened my skills but also gained a deep understanding of how data intertwines, with the world of music. This journey provided insights. Equipped me with confidence to undertake similar projects in the future.
 
 Tools Used🛠️:
+
 Programming Language: Python
+
 Libraries: Pandas, Numpy, Matplotlib, Seaborn
+
 IDE: Jupyter Notebook
